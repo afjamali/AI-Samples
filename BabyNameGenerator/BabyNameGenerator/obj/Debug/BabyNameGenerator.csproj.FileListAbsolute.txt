@@ -1,0 +1,9 @@
+c:\users\heli\documents\visual studio 2012\Projects\BabyNameGenerator\BabyNameGenerator\bin\Debug\BabyNameGenerator.exe.config
+c:\users\heli\documents\visual studio 2012\Projects\BabyNameGenerator\BabyNameGenerator\bin\Debug\BabyNameGenerator.exe
+c:\users\heli\documents\visual studio 2012\Projects\BabyNameGenerator\BabyNameGenerator\bin\Debug\BabyNameGenerator.pdb
+c:\users\heli\documents\visual studio 2012\Projects\BabyNameGenerator\BabyNameGenerator\obj\Debug\BabyNameGenerator.exe
+c:\users\heli\documents\visual studio 2012\Projects\BabyNameGenerator\BabyNameGenerator\obj\Debug\BabyNameGenerator.pdb
+C:\Users\Heli\documents\visual studio 2012\Projects\BabyNameGenerator\BabyNameGenerator\obj\Debug\BabyNameGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment4\BabyNameGenerator\BabyNameGenerator\bin\Debug\BabyNameGenerator.exe.config
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment4\BabyNameGenerator\BabyNameGenerator\obj\Debug\BabyNameGenerator.exe
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment4\BabyNameGenerator\BabyNameGenerator\obj\Debug\BabyNameGenerator.pdb

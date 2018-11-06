@@ -1,0 +1,30 @@
+c:\users\heli\documents\visual studio 2012\Projects\Simacogo\Simacogo\bin\Debug\Simacogo.exe.config
+c:\users\heli\documents\visual studio 2012\Projects\Simacogo\Simacogo\obj\Debug\Simacogo.csprojResolveAssemblyReference.cache
+c:\users\heli\documents\visual studio 2012\Projects\Simacogo\Simacogo\bin\Debug\Simacogo.exe
+c:\users\heli\documents\visual studio 2012\Projects\Simacogo\Simacogo\bin\Debug\Simacogo.pdb
+c:\users\heli\documents\visual studio 2012\Projects\Simacogo\Simacogo\obj\Debug\Simacogo.exe
+c:\users\heli\documents\visual studio 2012\Projects\Simacogo\Simacogo\obj\Debug\Simacogo.pdb
+C:\Users\Afshin\Documents\Visual Studio 2012\Projects\Simacogo\Simacogo\bin\Debug\Simacogo.exe.config
+C:\Users\Afshin\Documents\Visual Studio 2012\Projects\Simacogo\Simacogo\obj\Debug\Simacogo.exe
+C:\Users\Afshin\Documents\Visual Studio 2012\Projects\Simacogo\Simacogo\obj\Debug\Simacogo.pdb
+C:\Users\Afshin\Documents\Visual Studio 2012\Projects\Simacogo\Simacogo\bin\Debug\Simacogo.exe
+C:\Users\Afshin\Documents\Visual Studio 2012\Projects\Simacogo\Simacogo\bin\Debug\Simacogo.pdb
+C:\Users\Afshin\Documents\Visual Studio 2012\Projects\Simacogo\Simacogo\obj\Debug\Simacogo.csprojResolveAssemblyReference.cache
+C:\Users\Heli\Desktop\pruning1.0\Simacogo\Simacogo\bin\Debug\Simacogo.exe.config
+C:\Users\Heli\Desktop\pruning1.0\Simacogo\Simacogo\obj\Debug\Simacogo.exe
+C:\Users\Heli\Desktop\pruning1.0\Simacogo\Simacogo\obj\Debug\Simacogo.pdb
+C:\Users\Heli\Desktop\pruning1.0\Simacogo\Simacogo\bin\Debug\Simacogo.exe
+C:\Users\Heli\Desktop\pruning1.0\Simacogo\Simacogo\bin\Debug\Simacogo.pdb
+C:\Users\Heli\Desktop\pruning1.0\Simacogo\Simacogo\obj\Debug\Simacogo.csprojResolveAssemblyReference.cache
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment2\Simacogo\Simacogo\bin\Debug\Simacogo.exe.config
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment2\Simacogo\Simacogo\obj\Debug\Simacogo.exe
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment2\Simacogo\Simacogo\obj\Debug\Simacogo.pdb
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment2\Simacogo\Simacogo\bin\Debug\Simacogo.exe
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment2\Simacogo\Simacogo\bin\Debug\Simacogo.pdb
+C:\Users\Heli\Desktop\SE 480\Assignments\Assignment2\Simacogo\Simacogo\obj\Debug\Simacogo.csprojResolveAssemblyReference.cache
+C:\Users\Heli\Desktop\Simacogo\Simacogo\bin\Debug\Simacogo.exe.config
+C:\Users\Heli\Desktop\Simacogo\Simacogo\obj\Debug\Simacogo.exe
+C:\Users\Heli\Desktop\Simacogo\Simacogo\obj\Debug\Simacogo.pdb
+C:\Users\Heli\Desktop\Simacogo\Simacogo\bin\Debug\Simacogo.exe
+C:\Users\Heli\Desktop\Simacogo\Simacogo\bin\Debug\Simacogo.pdb
+C:\Users\Heli\Desktop\Simacogo\Simacogo\obj\Debug\Simacogo.csprojResolveAssemblyReference.cache

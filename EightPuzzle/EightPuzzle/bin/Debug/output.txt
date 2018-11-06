@@ -1,0 +1,513 @@
+5 6 7 4 0 8 3 2 1 
+NA, depth 0, cost = 0, total cost = 0
+
+5 6 7 4 2 8 3 0 1 
+DOWN, depth 1, cost = 2, total cost = 2
+
+5 6 7 4 2 8 3 1 0 
+RIGHT, depth 2, cost = 1, total cost = 3
+
+5 6 7 4 2 0 3 1 8 
+UP, depth 3, cost = 8, total cost = 11
+
+5 6 7 4 0 2 3 1 8 
+LEFT, depth 4, cost = 2, total cost = 13
+
+5 6 7 4 1 2 3 0 8 
+DOWN, depth 5, cost = 1, total cost = 14
+
+5 6 7 4 1 2 0 3 8 
+LEFT, depth 6, cost = 3, total cost = 17
+
+5 6 7 0 1 2 4 3 8 
+UP, depth 7, cost = 4, total cost = 21
+
+5 6 7 1 0 2 4 3 8 
+RIGHT, depth 8, cost = 1, total cost = 22
+
+5 6 7 1 2 0 4 3 8 
+RIGHT, depth 9, cost = 2, total cost = 24
+
+5 6 0 1 2 7 4 3 8 
+UP, depth 10, cost = 7, total cost = 31
+
+5 0 6 1 2 7 4 3 8 
+LEFT, depth 11, cost = 6, total cost = 37
+
+5 2 6 1 0 7 4 3 8 
+DOWN, depth 12, cost = 2, total cost = 39
+
+5 2 6 1 3 7 4 0 8 
+DOWN, depth 13, cost = 3, total cost = 42
+
+5 2 6 1 3 7 0 4 8 
+LEFT, depth 14, cost = 4, total cost = 46
+
+5 2 6 0 3 7 1 4 8 
+UP, depth 15, cost = 1, total cost = 47
+
+5 2 6 3 0 7 1 4 8 
+RIGHT, depth 16, cost = 3, total cost = 50
+
+5 2 6 3 4 7 1 0 8 
+DOWN, depth 17, cost = 4, total cost = 54
+
+5 2 6 3 4 7 0 1 8 
+LEFT, depth 18, cost = 1, total cost = 55
+
+5 2 6 0 4 7 3 1 8 
+UP, depth 19, cost = 3, total cost = 58
+
+5 2 6 4 0 7 3 1 8 
+RIGHT, depth 20, cost = 4, total cost = 62
+
+5 2 6 4 1 7 3 0 8 
+DOWN, depth 21, cost = 1, total cost = 63
+
+5 2 6 4 1 7 0 3 8 
+LEFT, depth 22, cost = 3, total cost = 66
+
+5 2 6 0 1 7 4 3 8 
+UP, depth 23, cost = 4, total cost = 70
+
+0 2 6 5 1 7 4 3 8 
+UP, depth 24, cost = 5, total cost = 75
+
+2 0 6 5 1 7 4 3 8 
+RIGHT, depth 25, cost = 2, total cost = 77
+
+2 1 6 5 0 7 4 3 8 
+DOWN, depth 26, cost = 1, total cost = 78
+
+2 1 6 5 3 7 4 0 8 
+DOWN, depth 27, cost = 3, total cost = 81
+
+2 1 6 5 3 7 0 4 8 
+LEFT, depth 28, cost = 4, total cost = 85
+
+2 1 6 0 3 7 5 4 8 
+UP, depth 29, cost = 5, total cost = 90
+
+0 1 6 2 3 7 5 4 8 
+UP, depth 30, cost = 2, total cost = 92
+
+1 0 6 2 3 7 5 4 8 
+RIGHT, depth 31, cost = 1, total cost = 93
+
+1 3 6 2 0 7 5 4 8 
+DOWN, depth 32, cost = 3, total cost = 96
+
+1 3 6 0 2 7 5 4 8 
+LEFT, depth 33, cost = 2, total cost = 98
+
+0 3 6 1 2 7 5 4 8 
+UP, depth 34, cost = 1, total cost = 99
+
+3 0 6 1 2 7 5 4 8 
+RIGHT, depth 35, cost = 3, total cost = 102
+
+3 2 6 1 0 7 5 4 8 
+DOWN, depth 36, cost = 2, total cost = 104
+
+3 2 6 0 1 7 5 4 8 
+LEFT, depth 37, cost = 1, total cost = 105
+
+0 2 6 3 1 7 5 4 8 
+UP, depth 38, cost = 3, total cost = 108
+
+2 0 6 3 1 7 5 4 8 
+RIGHT, depth 39, cost = 2, total cost = 110
+
+2 1 6 3 0 7 5 4 8 
+DOWN, depth 40, cost = 1, total cost = 111
+
+2 1 6 3 4 7 5 0 8 
+DOWN, depth 41, cost = 4, total cost = 115
+
+2 1 6 3 4 7 0 5 8 
+LEFT, depth 42, cost = 5, total cost = 120
+
+2 1 6 0 4 7 3 5 8 
+UP, depth 43, cost = 3, total cost = 123
+
+2 1 6 4 0 7 3 5 8 
+RIGHT, depth 44, cost = 4, total cost = 127
+
+2 0 6 4 1 7 3 5 8 
+UP, depth 45, cost = 1, total cost = 128
+
+0 2 6 4 1 7 3 5 8 
+LEFT, depth 46, cost = 2, total cost = 130
+
+4 2 6 0 1 7 3 5 8 
+DOWN, depth 47, cost = 4, total cost = 134
+
+4 2 6 1 0 7 3 5 8 
+RIGHT, depth 48, cost = 1, total cost = 135
+
+4 0 6 1 2 7 3 5 8 
+UP, depth 49, cost = 2, total cost = 137
+
+0 4 6 1 2 7 3 5 8 
+LEFT, depth 50, cost = 4, total cost = 141
+
+1 4 6 0 2 7 3 5 8 
+DOWN, depth 51, cost = 1, total cost = 142
+
+1 4 6 3 2 7 0 5 8 
+DOWN, depth 52, cost = 3, total cost = 145
+
+1 4 6 3 2 7 5 0 8 
+RIGHT, depth 53, cost = 5, total cost = 150
+
+1 4 6 3 0 7 5 2 8 
+UP, depth 54, cost = 2, total cost = 152
+
+1 4 6 0 3 7 5 2 8 
+LEFT, depth 55, cost = 3, total cost = 155
+
+0 4 6 1 3 7 5 2 8 
+UP, depth 56, cost = 1, total cost = 156
+
+4 0 6 1 3 7 5 2 8 
+RIGHT, depth 57, cost = 4, total cost = 160
+
+4 3 6 1 0 7 5 2 8 
+DOWN, depth 58, cost = 3, total cost = 163
+
+4 3 6 1 2 7 5 0 8 
+DOWN, depth 59, cost = 2, total cost = 165
+
+4 3 6 1 2 7 0 5 8 
+LEFT, depth 60, cost = 5, total cost = 170
+
+4 3 6 0 2 7 1 5 8 
+UP, depth 61, cost = 1, total cost = 171
+
+4 3 6 2 0 7 1 5 8 
+RIGHT, depth 62, cost = 2, total cost = 173
+
+4 0 6 2 3 7 1 5 8 
+UP, depth 63, cost = 3, total cost = 176
+
+0 4 6 2 3 7 1 5 8 
+LEFT, depth 64, cost = 4, total cost = 180
+
+2 4 6 0 3 7 1 5 8 
+DOWN, depth 65, cost = 2, total cost = 182
+
+2 4 6 1 3 7 0 5 8 
+DOWN, depth 66, cost = 1, total cost = 183
+
+2 4 6 1 3 7 5 0 8 
+RIGHT, depth 67, cost = 5, total cost = 188
+
+2 4 6 1 0 7 5 3 8 
+UP, depth 68, cost = 3, total cost = 191
+
+2 4 6 0 1 7 5 3 8 
+LEFT, depth 69, cost = 1, total cost = 192
+
+0 4 6 2 1 7 5 3 8 
+UP, depth 70, cost = 2, total cost = 194
+
+4 0 6 2 1 7 5 3 8 
+RIGHT, depth 71, cost = 4, total cost = 198
+
+4 1 6 2 0 7 5 3 8 
+DOWN, depth 72, cost = 1, total cost = 199
+
+4 1 6 0 2 7 5 3 8 
+LEFT, depth 73, cost = 2, total cost = 201
+
+0 1 6 4 2 7 5 3 8 
+UP, depth 74, cost = 4, total cost = 205
+
+1 0 6 4 2 7 5 3 8 
+RIGHT, depth 75, cost = 1, total cost = 206
+
+1 2 6 4 0 7 5 3 8 
+DOWN, depth 76, cost = 2, total cost = 208
+
+1 2 6 4 3 7 5 0 8 
+DOWN, depth 77, cost = 3, total cost = 211
+
+1 2 6 4 3 7 0 5 8 
+LEFT, depth 78, cost = 5, total cost = 216
+
+1 2 6 0 3 7 4 5 8 
+UP, depth 79, cost = 4, total cost = 220
+
+0 2 6 1 3 7 4 5 8 
+UP, depth 80, cost = 1, total cost = 221
+
+2 0 6 1 3 7 4 5 8 
+RIGHT, depth 81, cost = 2, total cost = 223
+
+2 3 6 1 0 7 4 5 8 
+DOWN, depth 82, cost = 3, total cost = 226
+
+2 3 6 0 1 7 4 5 8 
+LEFT, depth 83, cost = 1, total cost = 227
+
+0 3 6 2 1 7 4 5 8 
+UP, depth 84, cost = 2, total cost = 229
+
+3 0 6 2 1 7 4 5 8 
+RIGHT, depth 85, cost = 3, total cost = 232
+
+3 1 6 2 0 7 4 5 8 
+DOWN, depth 86, cost = 1, total cost = 233
+
+3 1 6 0 2 7 4 5 8 
+LEFT, depth 87, cost = 2, total cost = 235
+
+3 1 6 4 2 7 0 5 8 
+DOWN, depth 88, cost = 4, total cost = 239
+
+3 1 6 4 2 7 5 0 8 
+RIGHT, depth 89, cost = 5, total cost = 244
+
+3 1 6 4 0 7 5 2 8 
+UP, depth 90, cost = 2, total cost = 246
+
+3 0 6 4 1 7 5 2 8 
+UP, depth 91, cost = 1, total cost = 247
+
+0 3 6 4 1 7 5 2 8 
+LEFT, depth 92, cost = 3, total cost = 250
+
+4 3 6 0 1 7 5 2 8 
+DOWN, depth 93, cost = 4, total cost = 254
+
+4 3 6 5 1 7 0 2 8 
+DOWN, depth 94, cost = 5, total cost = 259
+
+4 3 6 5 1 7 2 0 8 
+RIGHT, depth 95, cost = 2, total cost = 261
+
+4 3 6 5 0 7 2 1 8 
+UP, depth 96, cost = 1, total cost = 262
+
+4 3 6 0 5 7 2 1 8 
+LEFT, depth 97, cost = 5, total cost = 267
+
+4 3 6 2 5 7 0 1 8 
+DOWN, depth 98, cost = 2, total cost = 269
+
+4 3 6 2 5 7 1 0 8 
+RIGHT, depth 99, cost = 1, total cost = 270
+
+4 3 6 2 5 7 1 8 0 
+RIGHT, depth 100, cost = 8, total cost = 278
+
+4 3 6 2 5 0 1 8 7 
+UP, depth 101, cost = 7, total cost = 285
+
+4 3 0 2 5 6 1 8 7 
+UP, depth 102, cost = 6, total cost = 291
+
+4 0 3 2 5 6 1 8 7 
+LEFT, depth 103, cost = 3, total cost = 294
+
+0 4 3 2 5 6 1 8 7 
+LEFT, depth 104, cost = 4, total cost = 298
+
+2 4 3 0 5 6 1 8 7 
+DOWN, depth 105, cost = 2, total cost = 300
+
+2 4 3 1 5 6 0 8 7 
+DOWN, depth 106, cost = 1, total cost = 301
+
+2 4 3 1 5 6 8 0 7 
+RIGHT, depth 107, cost = 8, total cost = 309
+
+2 4 3 1 0 6 8 5 7 
+UP, depth 108, cost = 5, total cost = 314
+
+2 4 3 0 1 6 8 5 7 
+LEFT, depth 109, cost = 1, total cost = 315
+
+0 4 3 2 1 6 8 5 7 
+UP, depth 110, cost = 2, total cost = 317
+
+4 0 3 2 1 6 8 5 7 
+RIGHT, depth 111, cost = 4, total cost = 321
+
+4 1 3 2 0 6 8 5 7 
+DOWN, depth 112, cost = 1, total cost = 322
+
+4 1 3 0 2 6 8 5 7 
+LEFT, depth 113, cost = 2, total cost = 324
+
+0 1 3 4 2 6 8 5 7 
+UP, depth 114, cost = 4, total cost = 328
+
+1 0 3 4 2 6 8 5 7 
+RIGHT, depth 115, cost = 1, total cost = 329
+
+1 2 3 4 0 6 8 5 7 
+DOWN, depth 116, cost = 2, total cost = 331
+
+1 2 3 4 5 6 8 0 7 
+DOWN, depth 117, cost = 5, total cost = 336
+
+1 2 3 4 5 6 8 7 0 
+RIGHT, depth 118, cost = 7, total cost = 343
+
+1 2 3 4 5 0 8 7 6 
+UP, depth 119, cost = 6, total cost = 349
+
+1 2 3 4 0 5 8 7 6 
+LEFT, depth 120, cost = 5, total cost = 354
+
+1 0 3 4 2 5 8 7 6 
+UP, depth 121, cost = 2, total cost = 356
+
+0 1 3 4 2 5 8 7 6 
+LEFT, depth 122, cost = 1, total cost = 357
+
+4 1 3 0 2 5 8 7 6 
+DOWN, depth 123, cost = 4, total cost = 361
+
+4 1 3 2 0 5 8 7 6 
+RIGHT, depth 124, cost = 2, total cost = 363
+
+4 0 3 2 1 5 8 7 6 
+UP, depth 125, cost = 1, total cost = 364
+
+0 4 3 2 1 5 8 7 6 
+LEFT, depth 126, cost = 4, total cost = 368
+
+2 4 3 0 1 5 8 7 6 
+DOWN, depth 127, cost = 2, total cost = 370
+
+2 4 3 1 0 5 8 7 6 
+RIGHT, depth 128, cost = 1, total cost = 371
+
+2 0 3 1 4 5 8 7 6 
+UP, depth 129, cost = 4, total cost = 375
+
+0 2 3 1 4 5 8 7 6 
+LEFT, depth 130, cost = 2, total cost = 377
+
+1 2 3 0 4 5 8 7 6 
+DOWN, depth 131, cost = 1, total cost = 378
+
+1 2 3 8 4 5 0 7 6 
+DOWN, depth 132, cost = 8, total cost = 386
+
+1 2 3 8 4 5 7 0 6 
+RIGHT, depth 133, cost = 7, total cost = 393
+
+1 2 3 8 0 5 7 4 6 
+UP, depth 134, cost = 4, total cost = 397
+
+1 0 3 8 2 5 7 4 6 
+UP, depth 135, cost = 2, total cost = 399
+
+0 1 3 8 2 5 7 4 6 
+LEFT, depth 136, cost = 1, total cost = 400
+
+8 1 3 0 2 5 7 4 6 
+DOWN, depth 137, cost = 8, total cost = 408
+
+8 1 3 2 0 5 7 4 6 
+RIGHT, depth 138, cost = 2, total cost = 410
+
+8 0 3 2 1 5 7 4 6 
+UP, depth 139, cost = 1, total cost = 411
+
+8 3 0 2 1 5 7 4 6 
+RIGHT, depth 140, cost = 3, total cost = 414
+
+8 3 5 2 1 0 7 4 6 
+DOWN, depth 141, cost = 5, total cost = 419
+
+8 3 5 2 0 1 7 4 6 
+LEFT, depth 142, cost = 1, total cost = 420
+
+8 3 5 0 2 1 7 4 6 
+LEFT, depth 143, cost = 2, total cost = 422
+
+0 3 5 8 2 1 7 4 6 
+UP, depth 144, cost = 8, total cost = 430
+
+3 0 5 8 2 1 7 4 6 
+RIGHT, depth 145, cost = 3, total cost = 433
+
+3 2 5 8 0 1 7 4 6 
+DOWN, depth 146, cost = 2, total cost = 435
+
+3 2 5 8 1 0 7 4 6 
+RIGHT, depth 147, cost = 1, total cost = 436
+
+3 2 0 8 1 5 7 4 6 
+UP, depth 148, cost = 5, total cost = 441
+
+3 0 2 8 1 5 7 4 6 
+LEFT, depth 149, cost = 2, total cost = 443
+
+3 1 2 8 0 5 7 4 6 
+DOWN, depth 150, cost = 1, total cost = 444
+
+3 1 2 8 4 5 7 0 6 
+DOWN, depth 151, cost = 4, total cost = 448
+
+3 1 2 8 4 5 7 6 0 
+RIGHT, depth 152, cost = 6, total cost = 454
+
+3 1 2 8 4 0 7 6 5 
+UP, depth 153, cost = 5, total cost = 459
+
+3 1 2 8 0 4 7 6 5 
+LEFT, depth 154, cost = 4, total cost = 463
+
+3 0 2 8 1 4 7 6 5 
+UP, depth 155, cost = 1, total cost = 464
+
+3 2 0 8 1 4 7 6 5 
+RIGHT, depth 156, cost = 2, total cost = 466
+
+3 2 4 8 1 0 7 6 5 
+DOWN, depth 157, cost = 4, total cost = 470
+
+3 2 4 8 0 1 7 6 5 
+LEFT, depth 158, cost = 1, total cost = 471
+
+3 0 4 8 2 1 7 6 5 
+UP, depth 159, cost = 2, total cost = 473
+
+0 3 4 8 2 1 7 6 5 
+LEFT, depth 160, cost = 3, total cost = 476
+
+8 3 4 0 2 1 7 6 5 
+DOWN, depth 161, cost = 8, total cost = 484
+
+8 3 4 2 0 1 7 6 5 
+RIGHT, depth 162, cost = 2, total cost = 486
+
+8 3 4 2 1 0 7 6 5 
+RIGHT, depth 163, cost = 1, total cost = 487
+
+8 3 0 2 1 4 7 6 5 
+UP, depth 164, cost = 4, total cost = 491
+
+8 0 3 2 1 4 7 6 5 
+LEFT, depth 165, cost = 3, total cost = 494
+
+8 1 3 2 0 4 7 6 5 
+DOWN, depth 166, cost = 1, total cost = 495
+
+8 1 3 0 2 4 7 6 5 
+LEFT, depth 167, cost = 2, total cost = 497
+
+0 1 3 8 2 4 7 6 5 
+UP, depth 168, cost = 8, total cost = 505
+
+1 0 3 8 2 4 7 6 5 
+RIGHT, depth 169, cost = 1, total cost = 506
+
+1 2 3 8 0 4 7 6 5 
+DOWN, depth 170, cost = 2, total cost = 508
+
